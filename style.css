@@ -1,0 +1,28 @@
+body{
+    background-color:#7fffd4;
+}
+img{
+    height:100px;
+    width:100px;
+}
+#div1{
+background-color:#00ffff;
+}
+
+#div2{
+    background-color:#8c00ff;
+}
+#div3{
+    background-color:#ff2600;
+}
+div{
+    width: 100%;
+    height:500%;
+}
+legend{
+font-weight:bold ;
+color: #8c00ff;
+}
+fieldset{
+    font-weight: bold;
+}
